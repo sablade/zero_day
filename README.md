@@ -1,2 +1,2 @@
 #VAGRANT TEST
-** I have no ide aabout what I'm doing
+** I have no idea about what I'm doing
